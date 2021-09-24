@@ -1,4 +1,4 @@
-# about_jQuery
+# about_ jQuery
 
 ## attr('attribute', 'value');
 - 지정한 속성의 값을 'value'값으로 변경.
